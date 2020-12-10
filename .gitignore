@@ -1,2 +1,7 @@
-/node_modules
+node_modules
 .env
+conference-app/node_modules
+feedback-service/node_modules
+service-registry/node_modules
+speaker-service/node_modules
+.vscode
